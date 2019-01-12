@@ -6,5 +6,5 @@ Real time data of the distance is send to the app and it also consist of a led/b
 
 <p align="center">
   <src="app.png">
-   <src="hardware.png"> 
+   
 </p>
