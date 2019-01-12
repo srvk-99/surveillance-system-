@@ -5,10 +5,10 @@ In the software side, MIT APP inventor and Google Firebase has been used for dev
 Real time data of the distance is send to the app and it also consist of a led/buzzer which can be controlled by the app.
 
 <p align="center">
-  <img width="460" height="500" src="app.png">
+  <img width="500" height="600" src="app.png">
   
 </p>
 <p align="center">
-  <img width="460" height="500" src="hardware.png">
+  <img width="400" height="500" src="hardware.png">
   
 </p>
